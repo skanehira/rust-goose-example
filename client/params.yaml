@@ -1,0 +1,7 @@
+# 各シナリオで使用するパラメータ
+scenarios:
+  # シナリオ名
+  - name: "create todo"
+    params:
+      # 作成するtodoの数
+      count: 5
